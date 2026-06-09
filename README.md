@@ -29,17 +29,13 @@ Meer detail staat in [docs/onderdelen.md](docs/onderdelen.md).
 
 ## Screenshots
 
-### Desktop
+### Ingevulde Desktopweergave
 
 ![Desktop screenshot](screenshots/andere-huidige-realiteit-home.jpg)
 
-### Mobiel
-
-![Mobiele screenshot](screenshots/andere-huidige-realiteit-mobile.jpg)
-
 ### 3D-Weergave
 
-![3D universe view](screenshots/universe-3d-view.jpg)
+![3D universe view](screenshots/andere-huidige-realiteit-3d.jpg)
 
 ## Privacy En Offline Opzet
 
