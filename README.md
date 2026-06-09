@@ -10,7 +10,7 @@ Deze repository deelt **geen WordPress-pluginbroncode** en bevat geen lokale dat
 
 Andere/Huidige Realiteit is een browserervaring die ingevulde gegevens zoals naam, datum en optionele locatie omzet in meerdere symbolische perspectieven. De module combineert datumgetal, dag van het jaar, astrologische indicaties, numerologie, symboliek, historische datumgebeurtenissen en een 3D-hemelweergave.
 
-![Andere/Huidige Realiteit desktop](screenshots/andere-huidige-realiteit-home.png)
+![Andere/Huidige Realiteit desktop](screenshots/andere-huidige-realiteit-home.jpg)
 
 ## Belangrijkste Onderdelen
 
@@ -31,15 +31,15 @@ Meer detail staat in [docs/onderdelen.md](docs/onderdelen.md).
 
 ### Desktop
 
-![Desktop screenshot](screenshots/andere-huidige-realiteit-home.png)
+![Desktop screenshot](screenshots/andere-huidige-realiteit-home.jpg)
 
 ### Mobiel
 
-![Mobiele screenshot](screenshots/andere-huidige-realiteit-mobile.png)
+![Mobiele screenshot](screenshots/andere-huidige-realiteit-mobile.jpg)
 
 ### 3D-Weergave
 
-![3D universe view](screenshots/universe-3d-view.png)
+![3D universe view](screenshots/universe-3d-view.jpg)
 
 ## Privacy En Offline Opzet
 
